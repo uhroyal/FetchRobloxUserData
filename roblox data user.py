@@ -110,10 +110,6 @@ def main():
     else:
         print(f"User Data for ID {user_id}: {user_data}")
 
-    print(f"{Fore.BLUE}////{Style.RESET_ALL}")
-    print(f"{Fore.BLUE}Checking the USER {user_id} information...{Style.RESET_ALL}")
-
-
 if __name__ == "__main__":
     main()
     print(f"{Fore.BLUE}////{Style.RESET_ALL}")
@@ -121,3 +117,4 @@ if __name__ == "__main__":
 
 
     close = input(f"{Fore.YELLOW}Click enter to close program.{Style.RESET_ALL}")
+

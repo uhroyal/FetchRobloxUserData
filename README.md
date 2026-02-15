@@ -4,5 +4,6 @@ this python tool uses the api of roblox to detect the profile stats
 
 Showcase/Example:
 
-<img width="1883" height="230" alt="image" src="https://github.com/user-attachments/assets/13f31b30-ddfd-4011-8636-a6d9dc0c52a2" />
+<img width="495" height="264" alt="image" src="https://github.com/user-attachments/assets/e8771b33-4ef8-43e0-b83b-981ef50c7992" />
+
 

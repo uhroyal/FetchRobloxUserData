@@ -17,21 +17,21 @@ class MyWindow(QtWidgets.QMainWindow):
         widget = QtWidgets.QWidget()
         layout = QtWidgets.QVBoxLayout()
         
-        # Label for input
+        # label for input
         label = QtWidgets.QLabel("Enter username or ID:")
         layout.addWidget(label)
         
-        # Input box
+        # input box
         self.input_box = QtWidgets.QLineEdit()
         self.input_box.setPlaceholderText("type username or ID")
         layout.addWidget(self.input_box)
         
-        # Search button
+        # search button
         button = QtWidgets.QPushButton("Search")
         button.clicked.connect(self.search_user)
         layout.addWidget(button)
         
-        # Text display
+        # text display
         self.text_box = QtWidgets.QTextEdit()
         self.text_box.setReadOnly(True)
         layout.addWidget(self.text_box)

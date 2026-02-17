@@ -1,5 +1,5 @@
 # Roblox User Data
-this python tool uses the api of roblox to detect the profile stats
+Uses the API of roblox to get the stats of a profile
 
 
 Showcase/Example:
